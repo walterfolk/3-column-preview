@@ -57,6 +57,7 @@ h1 {
 
 .card p {
     font-family: 'Lexend Deca', sans-serif;
+    line-height: 2rem;
     color: hsla(0, 0%, 100%, 0.75);
     font-weight: 400;
     text-align: left;
