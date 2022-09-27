@@ -15,7 +15,16 @@ body {
     display: flex;
     align-items: center;
 }
-
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Big Shoulders Display', cursive;
+    text-decoration: underline;
+    font-size: 3rem;
+    background: linear-gradient(90deg,#e38826 0%, #006970 50% , #004241 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 .container {
     max-width: 960px;
     margin: 0 auto;
